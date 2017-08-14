@@ -1,0 +1,9 @@
+E:\C#\coursera\week6\recite\recite\bin\Debug\recite.exe.config
+E:\C#\coursera\week6\recite\recite\bin\Debug\recite.exe
+E:\C#\coursera\week6\recite\recite\bin\Debug\recite.pdb
+E:\C#\coursera\week6\recite\recite\obj\Debug\recite.csprojResolveAssemblyReference.cache
+E:\C#\coursera\week6\recite\recite\obj\Debug\recite.Form1.resources
+E:\C#\coursera\week6\recite\recite\obj\Debug\recite.Properties.Resources.resources
+E:\C#\coursera\week6\recite\recite\obj\Debug\recite.csproj.GenerateResource.Cache
+E:\C#\coursera\week6\recite\recite\obj\Debug\recite.exe
+E:\C#\coursera\week6\recite\recite\obj\Debug\recite.pdb

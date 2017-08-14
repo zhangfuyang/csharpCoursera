@@ -1,0 +1,5 @@
+E:\C#\coursera\week6\CopyFileAddLineNumber\CopyFileAddLineNumber\bin\Debug\CopyFileAddLineNumber.exe.config
+E:\C#\coursera\week6\CopyFileAddLineNumber\CopyFileAddLineNumber\bin\Debug\CopyFileAddLineNumber.exe
+E:\C#\coursera\week6\CopyFileAddLineNumber\CopyFileAddLineNumber\bin\Debug\CopyFileAddLineNumber.pdb
+E:\C#\coursera\week6\CopyFileAddLineNumber\CopyFileAddLineNumber\obj\Debug\CopyFileAddLineNumber.exe
+E:\C#\coursera\week6\CopyFileAddLineNumber\CopyFileAddLineNumber\obj\Debug\CopyFileAddLineNumber.pdb

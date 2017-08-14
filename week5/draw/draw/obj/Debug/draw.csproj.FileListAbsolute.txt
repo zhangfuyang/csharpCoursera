@@ -1,0 +1,6 @@
+E:\C#\coursera\week5\draw\draw\bin\Debug\draw.exe.config
+E:\C#\coursera\week5\draw\draw\obj\Debug\draw.csprojResolveAssemblyReference.cache
+E:\C#\coursera\week5\draw\draw\bin\Debug\draw.exe
+E:\C#\coursera\week5\draw\draw\bin\Debug\draw.pdb
+E:\C#\coursera\week5\draw\draw\obj\Debug\draw.exe
+E:\C#\coursera\week5\draw\draw\obj\Debug\draw.pdb

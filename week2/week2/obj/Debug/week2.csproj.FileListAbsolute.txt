@@ -1,0 +1,9 @@
+E:\C#\coursera\week2\week2\bin\Debug\week2.exe.config
+E:\C#\coursera\week2\week2\bin\Debug\week2.exe
+E:\C#\coursera\week2\week2\bin\Debug\week2.pdb
+E:\C#\coursera\week2\week2\obj\Debug\week2.csprojResolveAssemblyReference.cache
+E:\C#\coursera\week2\week2\obj\Debug\week2.Form1.resources
+E:\C#\coursera\week2\week2\obj\Debug\week2.Properties.Resources.resources
+E:\C#\coursera\week2\week2\obj\Debug\week2.csproj.GenerateResource.Cache
+E:\C#\coursera\week2\week2\obj\Debug\week2.exe
+E:\C#\coursera\week2\week2\obj\Debug\week2.pdb

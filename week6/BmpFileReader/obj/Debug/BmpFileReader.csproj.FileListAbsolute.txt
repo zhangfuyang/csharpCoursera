@@ -1,0 +1,14 @@
+D:\csharp课程\06 流、文件IO\BmpFileReader\obj\Debug\BmpFileReader.exe
+D:\csharp课程\06 流、文件IO\BmpFileReader\obj\Debug\BmpFileReader.pdb
+D:\csharp课程\06 流、文件IO\BmpFileReader\bin\Debug\BmpFileReader.exe
+D:\csharp课程\06 流、文件IO\BmpFileReader\bin\Debug\BmpFileReader.pdb
+D:\csharp课程\06 流、文件IO\BmpFileReader\obj\Debug\BmpFileReader.csprojResolveAssemblyReference.cache
+D:\csharp课程\06 流、文件IO\BmpFileReader\obj\Debug\BmpFileReader.Form1.resources
+D:\csharp课程\06 流、文件IO\BmpFileReader\obj\Debug\BmpFileReader.csproj.GenerateResource.Cache
+E:\C#\coursera\week6\BmpFileReader\bin\Debug\BmpFileReader.exe
+E:\C#\coursera\week6\BmpFileReader\bin\Debug\BmpFileReader.pdb
+E:\C#\coursera\week6\BmpFileReader\obj\Debug\BmpFileReader.csprojResolveAssemblyReference.cache
+E:\C#\coursera\week6\BmpFileReader\obj\Debug\BmpFileReader.Form1.resources
+E:\C#\coursera\week6\BmpFileReader\obj\Debug\BmpFileReader.csproj.GenerateResource.Cache
+E:\C#\coursera\week6\BmpFileReader\obj\Debug\BmpFileReader.exe
+E:\C#\coursera\week6\BmpFileReader\obj\Debug\BmpFileReader.pdb

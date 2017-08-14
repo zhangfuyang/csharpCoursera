@@ -1,0 +1,6 @@
+E:\C#\coursera\week6\loger\loger\bin\Debug\loger.exe.config
+E:\C#\coursera\week6\loger\loger\bin\Debug\loger.exe
+E:\C#\coursera\week6\loger\loger\bin\Debug\loger.pdb
+E:\C#\coursera\week6\loger\loger\obj\Debug\loger.csprojResolveAssemblyReference.cache
+E:\C#\coursera\week6\loger\loger\obj\Debug\loger.exe
+E:\C#\coursera\week6\loger\loger\obj\Debug\loger.pdb

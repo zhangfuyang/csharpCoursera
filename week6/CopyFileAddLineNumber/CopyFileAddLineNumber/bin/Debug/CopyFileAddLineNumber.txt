@@ -1,0 +1,52 @@
+1: 	using System;
+2: 	using System.IO;
+3: 	
+4: 	public class CopyFileAddLineNumber
+5: 	{
+6: 	    public static void Main(string[] args)
+7: 	    {
+8: 	        string infname = @"E:\C#\coursera\week6\CopyFileAddLineNumber\CopyFileAddLineNumber\Program.cs";
+9: 	        string outfname = "CopyFileAddLineNumber.txt";
+10: 	        if (args.Length >= 1) infname = args[0];
+11: 	        if (args.Length >= 2) outfname = args[1];
+12: 	        try
+13: 	        {        
+14: 	            FileStream fin = new FileStream(infname, FileMode.Open, FileAccess.Read);
+15: 	            FileStream fout = new FileStream(outfname, FileMode.Create, FileAccess.Write);
+16: 	            StreamReader brin = new StreamReader(fin, System.Text.Encoding.Default);
+17: 	            StreamWriter brout = new StreamWriter(fout, System.Text.Encoding.Default);
+18: 	
+19: 	            int cnt = 0; 
+20: 	            string s = brin.ReadLine();
+21: 	            while (s != null)
+22: 	            {
+23: 	                cnt++;
+24: 	                s = deleteComments(s); 
+25: 	                brout.WriteLine(cnt + ": \t" + s); 
+26: 	                Console.WriteLine(cnt + ": \t" + s); 
+27: 	                s = brin.ReadLine(); 
+28: 	            }
+29: 	            brin.Close(); 
+30: 	            brout.Close();
+31: 	        }
+32: 	        catch (FileNotFoundException)
+33: 	        {
+34: 	            Console.WriteLine("File not found!");
+35: 	        }
+36: 	        catch (IOException e2)
+37: 	        {
+38: 	            Console.WriteLine(e2);
+39: 	        }
+40: 	    }
+41: 	
+42: 	    static string deleteComments(string s) 
+43: 	    {
+44: 	        if (s == null)
+45: 	            return s;
+46: 	        int pos = s.IndexOf("
+47: 	        if (pos < 0)
+48: 	            return s;
+49: 	        return s.Substring(0, pos);
+50: 	    }
+51: 	
+52: 	}
