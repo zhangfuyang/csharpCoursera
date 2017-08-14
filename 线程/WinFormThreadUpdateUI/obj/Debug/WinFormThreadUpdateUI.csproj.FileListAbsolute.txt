@@ -1,0 +1,7 @@
+E:\C#\coursera\线程\WinFormThreadUpdateUI\obj\Debug\WinFormThreadUpdateUI.pdb
+E:\C#\coursera\线程\WinFormThreadUpdateUI\bin\Debug\WinFormThreadUpdateUI.exe
+E:\C#\coursera\线程\WinFormThreadUpdateUI\bin\Debug\WinFormThreadUpdateUI.pdb
+E:\C#\coursera\线程\WinFormThreadUpdateUI\obj\Debug\WinFormThreadUpdateUI.csprojResolveAssemblyReference.cache
+E:\C#\coursera\线程\WinFormThreadUpdateUI\obj\Debug\WinFormThreadUpdateUI.Form1.resources
+E:\C#\coursera\线程\WinFormThreadUpdateUI\obj\Debug\WinFormThreadUpdateUI.csproj.GenerateResource.Cache
+E:\C#\coursera\线程\WinFormThreadUpdateUI\obj\Debug\WinFormThreadUpdateUI.exe
